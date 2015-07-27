@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://electromafr:1gorille@ds045242.mongolab.com:45242/northwindnode',
+	db: 'mongodb://electromafr:1gorille@ds027483.mongolab.com:27483/northwindnode',
 	app: {
 		title: 'northwindnode - Development Environment'
 	},

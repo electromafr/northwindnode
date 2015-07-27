@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/northwindnode-test',
+	db: 'mongodb://electromafr:1gorille@ds027483.mongolab.com:27483/northwindnode',
 	port: 3001,
 	app: {
 		title: 'northwindnode - Test Environment'
